@@ -5,3 +5,5 @@ Based on https://www.aph.gov.au/-/media/03_Senators_and_Members/31_Senators/cont
 
 ODS, and XLSX version courtesy of libre office export of my generated CSV.
 
+Select "Download zip" from the green code button
+
